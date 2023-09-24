@@ -1,6 +1,6 @@
 # E-Commerce Application
 
-#**KARTIKEY'S STORE**
+**KARTIKEY'S STORE**
 
 
 ## Introduction
