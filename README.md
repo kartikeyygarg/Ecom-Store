@@ -1,8 +1,7 @@
 # E-Commerce Application
 
-**#KARTIKEY'S STORE**
+#**KARTIKEY'S STORE**
 
-![Logo](https://example.com/your-logo.png)
 
 ## Introduction
 
